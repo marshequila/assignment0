@@ -1,1 +1,1 @@
-pip install numpy==1.26.1
+numpy==1.26.1
